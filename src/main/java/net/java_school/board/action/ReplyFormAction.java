@@ -2,8 +2,8 @@ package net.java_school.board.action;
 
 import java.io.IOException;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 
 import net.java_school.action.Action;
 import net.java_school.action.ActionForward;
